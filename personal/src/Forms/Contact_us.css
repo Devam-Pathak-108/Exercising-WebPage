@@ -1,0 +1,81 @@
+.ContactMain{
+    height: 100vh;
+    background-color: rgb(144, 224, 239);
+}
+.ContactHeading{
+    padding-top: 30px;
+    
+    height: 100px;
+    font-size: 50px;
+    color: rgb(3, 4, 94);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.ConstactForm{
+    position: relative;
+    width: 100%;
+    display: block;
+}
+.ContactInputs{
+    width: 70%;
+    display: block;
+    margin-top: 30px; 
+    height: 50px;  
+    border-left: solid 3px rgb(3, 4, 94);
+    border-bottom:solid 3px rgb(3, 4, 94) ;
+    border-right: none;
+    border-top: none;
+    border-radius: 5px;
+    background-color: rgb(144, 224, 239);
+    outline: none;
+    color: rgb(3, 4, 94);
+    transition: all 0.4s;
+}
+.ContactInputs:active,
+.ContactInputs:hover,
+.ContactInputs:focus{
+    width: 70%;
+    display: block;
+    margin-top: 30px; 
+    height: 50px;  
+    border-left: solid 3px rgb(3, 4, 94);
+    border-bottom:solid 3px rgb(3, 4, 94) ;
+    border-right: none;
+    border-top: none;
+    border-radius: 5px;
+    background-color: rgb(3, 4, 94);   
+    outline: none;
+    color:rgb(144, 224, 239);
+}
+
+
+textarea.ContactInputs,
+textarea.ContactInputs:active,
+textarea.ContactInputs:hover,
+textarea.ContactInputs:focus{
+    height: 200px;
+}
+.ContactSubmit{
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    margin-top: 20px ;
+    right: 15%;
+    color:rgb(3, 4, 94);
+    border: solid 5px rgb(3, 4, 94);
+    background-color: rgb(144, 224, 239);
+    border-radius: 50px;
+    transition: all 0.4s;
+}
+.ContactSubmit:hover{
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    margin-top: 20px ;
+    right: 15%;
+    color:rgb(144, 224, 239);
+    border: solid 5px rgb(3, 4, 94);
+    background-color: rgb(3, 4, 94);
+    border-radius: 50px;
+    transform: scale(1.2);
+}

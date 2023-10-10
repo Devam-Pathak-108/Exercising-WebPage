@@ -1,0 +1,17 @@
+.nav-btn1{
+    width: 140px;
+    background: transparent;
+    border: 3px  solid blue;
+    margin: 1rem;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    transition: all 0.3s;
+    text-decoration: none;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+.nav-btn1:hover{
+    border-radius: 18px;
+    background-color: rgb(144, 224, 239);
+}

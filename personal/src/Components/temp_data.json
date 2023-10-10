@@ -1,0 +1,1306 @@
+[
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/LejViURl-zBvbB",
+      "id": "3294",
+      "name": "archer push up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "leverage machine",
+      "gifUrl": "https://api.exercisedb.io/image/ESFoIBXapaEUvF",
+      "id": "0009",
+      "name": "assisted chest dip (kneeling)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "assisted",
+      "gifUrl": "https://api.exercisedb.io/image/3AVpyMTzQfBD4L",
+      "id": "1716",
+      "name": "assisted seated pectoralis major stretch with stability ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "leverage machine",
+      "gifUrl": "https://api.exercisedb.io/image/V3PRClUNdmQHih",
+      "id": "2364",
+      "name": "assisted wide-grip chest dip (kneeling)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "band",
+      "gifUrl": "https://api.exercisedb.io/image/LOfX31586mV3yg",
+      "id": "1254",
+      "name": "band bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "band",
+      "gifUrl": "https://api.exercisedb.io/image/KAL5LwpO-uM3c3",
+      "id": "0989",
+      "name": "band one arm twisting chest press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/wEFJV-jrBzZny-",
+      "id": "0025",
+      "name": "barbell bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/JEnVJjJYnrFR3D",
+      "id": "0033",
+      "name": "barbell decline bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/vZUhW0FTnrhNCF",
+      "id": "1255",
+      "name": "barbell decline pullover",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/0FZGGm1qJusI6c",
+      "id": "0036",
+      "name": "barbell decline wide-grip press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/0bKmKjRd1hW9qY",
+      "id": "0040",
+      "name": "barbell front raise and pullover",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/hIh5jaRNCmTq1T",
+      "id": "0045",
+      "name": "barbell guillotine bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/a7dz2v2laVtyzp",
+      "id": "0047",
+      "name": "barbell incline bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/xlXQ1oQXgQDaik",
+      "id": "0050",
+      "name": "barbell incline shoulder raise",
+      "target": "serratus anterior"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/9HhfpFgb2e1z6x",
+      "id": "1256",
+      "name": "barbell reverse grip decline bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/PwkoB5pLwE9wxk",
+      "id": "1257",
+      "name": "barbell reverse grip incline bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/5JbQC7cgGyXPyi",
+      "id": "0122",
+      "name": "barbell wide bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/y2qBp1kMq0OTwz",
+      "id": "1258",
+      "name": "barbell wide reverse grip bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "assisted",
+      "gifUrl": "https://api.exercisedb.io/image/zvG8ijjTePqHqQ",
+      "id": "1259",
+      "name": "behind head chest stretch",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/5Qq5j-ZrBAsxFF",
+      "id": "0151",
+      "name": "cable bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/VfACHkqf9LspJb",
+      "id": "0155",
+      "name": "cable cross-over variation",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/7DeFZEq0O8NBrx",
+      "id": "0158",
+      "name": "cable decline fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/fUO4z8Zd5ntCQ2",
+      "id": "1260",
+      "name": "cable decline one arm press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/82xFC5eeozY78Z",
+      "id": "1261",
+      "name": "cable decline press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/NcxrkYAs-cKnnI",
+      "id": "0169",
+      "name": "cable incline bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/csjZgko7V7y1lz",
+      "id": "0171",
+      "name": "cable incline fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/n9L1t5OG9naHfX",
+      "id": "0170",
+      "name": "cable incline fly (on stability ball)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/nFc6CPJzsG0Ywb",
+      "id": "0179",
+      "name": "cable low fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/S3BpES4AkOn0Gt",
+      "id": "0185",
+      "name": "cable lying fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/PH-jWGCXeiBbwl",
+      "id": "0188",
+      "name": "cable middle fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/Pw06cuMVvBwC1K",
+      "id": "1262",
+      "name": "cable one arm decline chest fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/hl35Jx5cOu6UAa",
+      "id": "1263",
+      "name": "cable one arm fly on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/hHykK5M0Ptnvx7",
+      "id": "1264",
+      "name": "cable one arm incline fly on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/BJgLGTU6m7uU7s",
+      "id": "1265",
+      "name": "cable one arm incline press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/1SO4tSvcMcfzDS",
+      "id": "1266",
+      "name": "cable one arm incline press on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/F5tiZtjXjQ6Mw0",
+      "id": "0191",
+      "name": "cable one arm lateral bent-over",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/Pi77uCNPwJOowQ",
+      "id": "1267",
+      "name": "cable one arm press on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/n31u67x08gaAQd",
+      "id": "1268",
+      "name": "cable press on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/k6BIZNc9W0FwLC",
+      "id": "2144",
+      "name": "cable seated chest press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/6UmVN0UAptXjoY",
+      "id": "0227",
+      "name": "cable standing fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/9jbrWILhhvc5Pt",
+      "id": "1269",
+      "name": "cable standing up straight crossovers",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "cable",
+      "gifUrl": "https://api.exercisedb.io/image/E2CD9B9HbhpkiS",
+      "id": "1270",
+      "name": "cable upper chest crossovers",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/uv0aT5q2PRaTTx",
+      "id": "1271",
+      "name": "chest and front of shoulder stretch",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/2X8gkM4qMqbUh5",
+      "id": "0251",
+      "name": "chest dip",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/vlweuFgJQLbVB5",
+      "id": "1430",
+      "name": "chest dip (on dip-pull-up cage)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/ZY7hhH4untSloo",
+      "id": "2462",
+      "name": "chest dip on straight bar",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "stability ball",
+      "gifUrl": "https://api.exercisedb.io/image/-dn19sdAZZJToH",
+      "id": "1272",
+      "name": "chest stretch with exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/RS56D159cSK-cl",
+      "id": "3216",
+      "name": "chest tap push-up (male)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/D0uFTO0BSwLVPe",
+      "id": "1273",
+      "name": "clap push up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/HuB2w3NA-n7aVx",
+      "id": "0258",
+      "name": "clock push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/RJtp03GhsnlJPC",
+      "id": "0279",
+      "name": "decline push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/uzUq2PBQhzJxRi",
+      "id": "1274",
+      "name": "deep push up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/kIhu1-trwhp-4z",
+      "id": "1275",
+      "name": "drop push up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/7fB982k4pFb1hG",
+      "id": "0288",
+      "name": "dumbbell around pullover",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/WIVBsDvbF3TYRK",
+      "id": "0289",
+      "name": "dumbbell bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/GDnsjhNWG9xW3d",
+      "id": "0301",
+      "name": "dumbbell decline bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/gTezEXU2BLYqCP",
+      "id": "0302",
+      "name": "dumbbell decline fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/R0kmPtQ-4yZx4V",
+      "id": "0303",
+      "name": "dumbbell decline hammer press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/2Cfl9Z8vsTqsk0",
+      "id": "1276",
+      "name": "dumbbell decline one arm fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/ASYHM77H1mcfdZ",
+      "id": "0307",
+      "name": "dumbbell decline twist fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/UZMYwNfp5kklqM",
+      "id": "0308",
+      "name": "dumbbell fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/3bQaw6Ptnk7SvB",
+      "id": "1277",
+      "name": "dumbbell fly on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/0na0DtljEhycnJ",
+      "id": "3545",
+      "name": "dumbbell incline alternate press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/cn11RIh-xgzfrZ",
+      "id": "0314",
+      "name": "dumbbell incline bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/BzyytUnkiVgFcZ",
+      "id": "0316",
+      "name": "dumbbell incline breeding",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/JXgXmduf4mdEPi",
+      "id": "0319",
+      "name": "dumbbell incline fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/g63BtNWYChC-Kd",
+      "id": "1278",
+      "name": "dumbbell incline fly on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/6PzJIqUPJVxTff",
+      "id": "0321",
+      "name": "dumbbell incline hammer press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/KqB-yM0D02bnol",
+      "id": "1279",
+      "name": "dumbbell incline one arm fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/lF--BC280aIIJp",
+      "id": "1280",
+      "name": "dumbbell incline one arm fly on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/R2l6VqlYuH7gis",
+      "id": "1281",
+      "name": "dumbbell incline one arm press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/vjW1ao34LGqrYh",
+      "id": "1282",
+      "name": "dumbbell incline one arm press on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/piPw160asRto8e",
+      "id": "0324",
+      "name": "dumbbell incline palm-in press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/qHqOq2FwpX0GSB",
+      "id": "1283",
+      "name": "dumbbell incline press on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/BY3YlDiBD5m0kh",
+      "id": "0328",
+      "name": "dumbbell incline shoulder raise",
+      "target": "serratus anterior"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/O2wU6JtgbcfIvF",
+      "id": "0331",
+      "name": "dumbbell incline twisted flyes",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/2dCLz4DcVr6VMS",
+      "id": "0340",
+      "name": "dumbbell lying hammer press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/9znTd07exKDXGu",
+      "id": "0343",
+      "name": "dumbbell lying one arm press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/jk-Qqzviu7jf0g",
+      "id": "0342",
+      "name": "dumbbell lying one arm press v. 2",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/NSbYOPMMYY547O",
+      "id": "1284",
+      "name": "dumbbell lying pullover on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/fzA1dYIvLzVJOC",
+      "id": "1285",
+      "name": "dumbbell one arm bench fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/hps3zvzU9P6Ci7",
+      "id": "1286",
+      "name": "dumbbell one arm chest fly on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/l-ZO79k-ONDym7",
+      "id": "1287",
+      "name": "dumbbell one arm decline chest press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/VGAXaokeksdFeZ",
+      "id": "1288",
+      "name": "dumbbell one arm fly on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/eGv0hXBl3QtDMZ",
+      "id": "1289",
+      "name": "dumbbell one arm incline chest press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/klW81XgjGe1gSa",
+      "id": "1290",
+      "name": "dumbbell one arm press on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/eEo0tU4XZz6J0m",
+      "id": "1291",
+      "name": "dumbbell one arm pullover on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/GhC8ioSKKW9p3j",
+      "id": "1622",
+      "name": "dumbbell one arm reverse grip press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/Kt4HPNf2NIBr90",
+      "id": "1292",
+      "name": "dumbbell one leg fly on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/ZgseOkaUGP78iz",
+      "id": "1293",
+      "name": "dumbbell press on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/LE6GKCpClUUMue",
+      "id": "0375",
+      "name": "dumbbell pullover",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/pr9J5Wc9OLpVyo",
+      "id": "1294",
+      "name": "dumbbell pullover hip extension on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/ohHE0kU6E6FkCb",
+      "id": "1295",
+      "name": "dumbbell pullover on exercise ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/2FujUQDFgssX0d",
+      "id": "1624",
+      "name": "dumbbell reverse bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/X4S21Ukow6W9ty",
+      "id": "0433",
+      "name": "dumbbell straight arm pullover",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/jLqtKn72GH8hT2",
+      "id": "1167",
+      "name": "dynamic chest stretch (male)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "stability ball",
+      "gifUrl": "https://api.exercisedb.io/image/Qtsdu0xxF7X2yH",
+      "id": "1296",
+      "name": "exercise ball pike push up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "barbell",
+      "gifUrl": "https://api.exercisedb.io/image/rUIaGeEUG-4SP7",
+      "id": "0458",
+      "name": "floor fly (with barbell)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/eMvYWDrvVV9wVN",
+      "id": "3327",
+      "name": "full planche push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "upper body ergometer",
+      "gifUrl": "https://api.exercisedb.io/image/DJBYPP5cf0O3jy",
+      "id": "2139",
+      "name": "hands bike",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "dumbbell",
+      "gifUrl": "https://api.exercisedb.io/image/bMfSzVJeqzPyfW",
+      "id": "3234",
+      "name": "hyght dumbbell fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/cxH-ej1kkEaHX5",
+      "id": "0492",
+      "name": "incline push up depth jump",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/FowefRX1ok2I-m",
+      "id": "0493",
+      "name": "incline push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/K1-Hts6G9HuwJq",
+      "id": "3785",
+      "name": "incline push-up (on box)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/ZHn4C2eM2tC5eO",
+      "id": "0494",
+      "name": "incline reverse grip push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/OgM-hapCQiPlJu",
+      "id": "3011",
+      "name": "incline scapula push up",
+      "target": "serratus anterior"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/wTMhMqROQJZ1l-",
+      "id": "1297",
+      "name": "isometric chest squeeze",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/HNE3A1u5iyUaXI",
+      "id": "0500",
+      "name": "isometric wipers",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "gifUrl": "https://api.exercisedb.io/image/XRthktlapWDljs",
+      "id": "0519",
+      "name": "kettlebell alternating press on floor",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "gifUrl": "https://api.exercisedb.io/image/ScOVjWdbnGgtDe",
+      "id": "0531",
+      "name": "kettlebell extended range one arm press on floor",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "gifUrl": "https://api.exercisedb.io/image/rWJU7gW548bi-y",
+      "id": "1298",
+      "name": "kettlebell one arm floor press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "kettlebell",
+      "gifUrl": "https://api.exercisedb.io/image/pjxkcZbke2jiKv",
+      "id": "0545",
+      "name": "kettlebell plyo push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/U5rbaJpH1ZCqkH",
+      "id": "3211",
+      "name": "kneeling push-up (male)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/T2KYkwjM3c0idr",
+      "id": "3288",
+      "name": "korean dips",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "leverage machine",
+      "gifUrl": "https://api.exercisedb.io/image/tbFKBoWwaLC2tx",
+      "id": "0577",
+      "name": "lever chest press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "leverage machine",
+      "gifUrl": "https://api.exercisedb.io/image/DAHtDHRfG4bOH0",
+      "id": "0576",
+      "name": "lever chest press ",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "leverage machine",
+      "gifUrl": "https://api.exercisedb.io/image/nA7jOMruelkQaN",
+      "id": "1300",
+      "name": "lever decline chest press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "leverage machine",
+      "gifUrl": "https://api.exercisedb.io/image/FYGDlsNzHXtGiZ",
+      "id": "1299",
+      "name": "lever incline chest press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "leverage machine",
+      "gifUrl": "https://api.exercisedb.io/image/ld28M0OqL32B8T",
+      "id": "1479",
+      "name": "lever incline chest press v. 2",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "leverage machine",
+      "gifUrl": "https://api.exercisedb.io/image/NyKm4OhDK9BYkv",
+      "id": "0596",
+      "name": "lever seated fly",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "leverage machine",
+      "gifUrl": "https://api.exercisedb.io/image/Xoe5Hhnry3VRqO",
+      "id": "3758",
+      "name": "lever standing chest press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "leverage machine",
+      "gifUrl": "https://api.exercisedb.io/image/amburAMKIgtxWK",
+      "id": "1301",
+      "name": "machine inner chest press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "medicine ball",
+      "gifUrl": "https://api.exercisedb.io/image/0vFmiVuCkJSOUW",
+      "id": "1302",
+      "name": "medicine ball chest pass",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "medicine ball",
+      "gifUrl": "https://api.exercisedb.io/image/3EhUjbWzkW9Qjv",
+      "id": "1303",
+      "name": "medicine ball chest push from 3 point stance",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "medicine ball",
+      "gifUrl": "https://api.exercisedb.io/image/L5MuHaK6678ZPA",
+      "id": "1304",
+      "name": "medicine ball chest push multiple response",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "medicine ball",
+      "gifUrl": "https://api.exercisedb.io/image/Z2c6G3Qk87ObVF",
+      "id": "1305",
+      "name": "medicine ball chest push single response",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "medicine ball",
+      "gifUrl": "https://api.exercisedb.io/image/--7778TmWQlFC3",
+      "id": "1312",
+      "name": "medicine ball chest push with run release",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/BnmaP3kK33YZRI",
+      "id": "3217",
+      "name": "modified hindu push-up (male)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/A3JbTmHxbZJFNh",
+      "id": "1306",
+      "name": "plyo push up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/nKhwMZS0ixQ9uB",
+      "id": "1689",
+      "name": "push and pull bodyweight",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "bosu ball",
+      "gifUrl": "https://api.exercisedb.io/image/vtnY8aO2nfK5GR",
+      "id": "1307",
+      "name": "push up on bosu ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/VxseyprQWLsPlT",
+      "id": "0662",
+      "name": "push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "bosu ball",
+      "gifUrl": "https://api.exercisedb.io/image/Ze3OagEd3TOeAA",
+      "id": "0653",
+      "name": "push-up (bosu ball)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "stability ball",
+      "gifUrl": "https://api.exercisedb.io/image/vxeHKJJ1MVInDt",
+      "id": "0655",
+      "name": "push-up (on stability ball)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "stability ball",
+      "gifUrl": "https://api.exercisedb.io/image/uBgSbBNhArZB5K",
+      "id": "0656",
+      "name": "push-up (on stability ball)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/Bbpmdxq03wUg38",
+      "id": "0659",
+      "name": "push-up (wall)",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/1saI0OdF-jwQ2w",
+      "id": "0658",
+      "name": "push-up (wall) v. 2",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "medicine ball",
+      "gifUrl": "https://api.exercisedb.io/image/OIC6eJ5CApA0ct",
+      "id": "0663",
+      "name": "push-up medicine ball",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/8sBmZE7ZsgMGsM",
+      "id": "3145",
+      "name": "push-up plus",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/QJcTP9eF8aPj1L",
+      "id": "0666",
+      "name": "raise single arm push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "resistance band",
+      "gifUrl": "https://api.exercisedb.io/image/BzxbkdarSaWzFG",
+      "id": "3124",
+      "name": "resistance band seated chest press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "roller",
+      "gifUrl": "https://api.exercisedb.io/image/KT1okDG73xdBUV",
+      "id": "2203",
+      "name": "roller seated shoulder flexor depresor retractor",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "roller",
+      "gifUrl": "https://api.exercisedb.io/image/ZAkzJ5NiH8SEXV",
+      "id": "2209",
+      "name": "roller seated single leg shoulder flexor depresor retractor",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/FRYNLNitA9QpSs",
+      "id": "3021",
+      "name": "scapula push-up",
+      "target": "serratus anterior"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/es8-FUSxziySbV",
+      "id": "0699",
+      "name": "shoulder tap push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/Uj5pvBcMNkKIfV",
+      "id": "0725",
+      "name": "single arm push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "smith machine",
+      "gifUrl": "https://api.exercisedb.io/image/qyiI6A31kd2oRI",
+      "id": "0748",
+      "name": "smith bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "smith machine",
+      "gifUrl": "https://api.exercisedb.io/image/SRWbXWOoQ40jof",
+      "id": "0753",
+      "name": "smith decline bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "smith machine",
+      "gifUrl": "https://api.exercisedb.io/image/dcDWI9X6VGh4Xl",
+      "id": "0754",
+      "name": "smith decline reverse-grip press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "smith machine",
+      "gifUrl": "https://api.exercisedb.io/image/lXPnIumguNu4Mf",
+      "id": "0757",
+      "name": "smith incline bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "smith machine",
+      "gifUrl": "https://api.exercisedb.io/image/3qFKYQ6d01taAw",
+      "id": "0758",
+      "name": "smith incline reverse-grip press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "smith machine",
+      "gifUrl": "https://api.exercisedb.io/image/S6jo6hsn95levD",
+      "id": "0759",
+      "name": "smith incline shoulder raises",
+      "target": "serratus anterior"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "smith machine",
+      "gifUrl": "https://api.exercisedb.io/image/FvL4xygqx45ToB",
+      "id": "1626",
+      "name": "smith machine reverse decline close grip bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "smith machine",
+      "gifUrl": "https://api.exercisedb.io/image/a-5jxk4TOQK5TY",
+      "id": "0764",
+      "name": "smith reverse-grip press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "smith machine",
+      "gifUrl": "https://api.exercisedb.io/image/XnKPaNt6qwDu1L",
+      "id": "1308",
+      "name": "smith wide grip bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "smith machine",
+      "gifUrl": "https://api.exercisedb.io/image/iybEpX7nKwXlum",
+      "id": "1309",
+      "name": "smith wide grip decline bench press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/iA28LRDWcSKpnD",
+      "id": "0803",
+      "name": "superman push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/TLdSmQEob4wnZV",
+      "id": "0806",
+      "name": "suspended push-up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "weighted",
+      "gifUrl": "https://api.exercisedb.io/image/Y1hgMCMk2oYv-5",
+      "id": "1310",
+      "name": "weighted drop push up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "weighted",
+      "gifUrl": "https://api.exercisedb.io/image/JKWQ5FKeAjd4m4",
+      "id": "3313",
+      "name": "weighted straight bar dip",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "weighted",
+      "gifUrl": "https://api.exercisedb.io/image/uzSTS2XCbL5DFO",
+      "id": "0856",
+      "name": "weighted svend press",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/MF2WCjtQcck3Tc",
+      "id": "1311",
+      "name": "wide hand push up",
+      "target": "pectorals"
+    },
+    {
+      "bodyPart": "chest",
+      "equipment": "body weight",
+      "gifUrl": "https://api.exercisedb.io/image/Wo15R5mknzJQj9",
+      "id": "2363",
+      "name": "wide-grip chest dip on high parallel bars",
+      "target": "pectorals"
+    }
+  ]

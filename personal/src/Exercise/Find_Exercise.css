@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Roboto+Slab:wght@300&display=swap');
+
+.exer-main{
+    overflow-x: hidden;
+    font-family: 'Kanit', sans-serif;
+    
+    /* background-color: rgb(238, 238, 238); */
+}
+.exer-out{
+    padding: 10px 10px 10px 10px ;
+}
+
+.exer-form-ip{
+    width:95%;
+    height: 70px;
+    margin: 25px 25px 25px 25px ;
+    border: solid 5px rgb(3, 4, 94);
+    border-radius: 50px;
+    background-color: rgb(144, 224, 239);
+    color:rgb(3, 4, 94);
+}
+
+
+.card-outer-exer{
+    padding: 10px 10px 10px 10px ;
+}
+.card-inner-exer{
+    text-transform: capitalize;
+    padding: 15px 10px 10px 10px ;
+    height: 100%;
+    width: 100%;
+    border: solid 5px rgb(3, 4, 94);
+    color: rgb(3, 4, 94);
+    background-color: rgb(144, 224, 239);
+    transition: all .3s;
+}
+.card-inner-exer:hover{
+    text-transform: capitalize;
+    padding: 15px 10px 10px 10px ;
+    height: 100%;
+    width: 100%;
+    border: solid 5px rgb(3, 4, 94);
+    border-radius: 30px;
+    color: rgb(144, 224, 239);
+    background-color: rgb(3, 4, 94);
+    transform: scale(1.05);  
+}
+
+.card-inner-exer img{
+    width: 100%;
+}
+
+.Pagination_btn{
+    width: 150px;
+    margin: 20px;
+    color: rgb(3, 4, 94);
+    padding: 10px;
+    font-weight: 500;
+    border: solid 5px rgb(3, 4, 94);
+    border-radius: 30px;
+    background-color: rgb(144, 224, 239);
+    transition: all .3s;
+}
+
+.Pagination_btn:hover{
+    width: 150px;
+    margin: 20px;
+    color: rgb(144, 224, 239);
+    padding: 10px;
+    font-weight: 500;
+    border: solid 5px rgb(3, 4, 94);
+    border-radius: 30px;
+    background-color: rgb(3, 4, 94);
+    transform:scale(1.2); 
+
+}
